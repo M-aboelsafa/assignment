@@ -59,20 +59,20 @@
         <td>TEST</td>
         </tr>
     </table>
-    <img src="image/lacasa.jpg" title="lacasa" id="image" alt="lacasa" usemap="#lacasa">
+    <img src="lacasa.jpg" title="lacasa" id="image" alt="lacasa" usemap="#lacasa">
     <map name="lacasa">
-            <area  alt="profesor" title="profesor" href="image/prof.jpg" coords="432,201,54" shape="circle">
-            <area  alt="denver" title="Denver" href="image/denver.jpg" coords="510,225,44" shape="circle">
-            <area  alt="Palermo" title="Palermo" href="image/palermo.jpg" coords="580,235,44" shape="circle">
-            <area  alt="monica" title="monica" href="image/monica.jpg" coords="670,245,35" shape="circle">
-            <area  alt="bogata" title="bogata" href="image/bogata.jpg" coords="730,265,35" shape="circle">
-            <area  alt="marcelia" title="marcelia" href="image/marcilia.jpg" coords="779,279,35" shape="circle">
-            <area  alt="Rio" title="Rio" href="image/rio.jpg" coords="260,255,40" shape="circle">
-            <area  alt="manila" title="manila" href="image/manila.jpg" coords="180,265,40" shape="circle">
-            <area  alt="Helsinki" title="Helsinki" href="image/helsinki.jpg" coords="110,295,40" shape="circle">
-            <area  alt="lisbona" title="lisbona" href="image/lisbona.jpg" coords="330,215,40" shape="circle">
-            <area shape="rect" coords="110,20,800,200" href="image/la.png" alt="lacasa" title="lacasa de papel">
-            <area shape="rect" coords="250,650,700,1600" href="image/all1.jpg" alt="lacasa" title="lacasa de papel">
+            <area  alt="profesor" title="profesor" href="prof.jpg" coords="432,201,54" shape="circle">
+            <area  alt="denver" title="Denver" href="denver.jpg" coords="510,225,44" shape="circle">
+            <area  alt="Palermo" title="Palermo" href="palermo.jpg" coords="580,235,44" shape="circle">
+            <area  alt="monica" title="monica" href="monica.jpg" coords="670,245,35" shape="circle">
+            <area  alt="bogata" title="bogata" href="bogata.jpg" coords="730,265,35" shape="circle">
+            <area  alt="marcelia" title="marcelia" href="marcilia.jpg" coords="779,279,35" shape="circle">
+            <area  alt="Rio" title="Rio" href="rio.jpg" coords="260,255,40" shape="circle">
+            <area  alt="manila" title="manila" href="manila.jpg" coords="180,265,40" shape="circle">
+            <area  alt="Helsinki" title="Helsinki" href="helsinki.jpg" coords="110,295,40" shape="circle">
+            <area  alt="lisbona" title="lisbona" href="lisbona.jpg" coords="330,215,40" shape="circle">
+            <area shape="rect" coords="110,20,800,200" href="la.png" alt="lacasa" title="lacasa de papel">
+            <area shape="rect" coords="250,650,700,1600" href="all1.jpg" alt="lacasa" title="lacasa de papel">
       </map>
       <footer id="contact">
           <p>
